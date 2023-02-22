@@ -1,2 +1,2 @@
 Meu primeiro programa na UnB cursando Engenharia de Software
-fiz este programa cursando APC.
+fiz este programa em C cursando APC,o programa consiste em um cadastro de pessoas onde você vai adicionar seu cpf,nome completo,data de nascimento,cidade e UF e em seguida ele vai salvar em um arquivo.txt,com ele salvo,você pode procurar a pessoa através do cpf,listar as pessoas que são da mesma cidade,excluir alguem e gerar um relatorio calculando a media de pessoas por gênero e idade,o programa possui alguns bugs que não consegui resolver mas ainda assim funciona 90% dele,foi muito legal a experiência de criar meu primeiro programa 
